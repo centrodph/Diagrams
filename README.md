@@ -15,3 +15,6 @@ https://centrodph.github.io/Diagrams/ServiceMappingAfter.html
 https://centrodph.github.io/Diagrams/DiagramaClases-RobotCebador.html
 
 https://centrodph.github.io/Diagrams/DiagramaClases-RobotCebador2.html
+
+
+https://centrodph.github.io/Diagrams/SimpleSpotify.html
