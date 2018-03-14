@@ -18,3 +18,8 @@ https://centrodph.github.io/Diagrams/DiagramaClases-RobotCebador2.html
 
 
 https://centrodph.github.io/Diagrams/SimpleSpotify.html
+
+
+### Observer
+
+https://centrodph.github.io/Diagrams/Observer.html
