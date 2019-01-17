@@ -10,7 +10,7 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
 
-var lodash = require('lodash');
+import lodash from 'lodash';
 var React = _interopDefault(require('react'));
 
 var prefix = 'em-ds';
@@ -939,6 +939,5 @@ var DSButton = function DSButton(_ref2) {
   );
 };
 
-exports.BUTTON_TYPE = BUTTON_TYPE;
-exports.BUTTON_SIZE = BUTTON_SIZE;
-exports.default = DSButton;
+export { BUTTON_TYPE, BUTTON_SIZE };
+export const default = DSButton;
