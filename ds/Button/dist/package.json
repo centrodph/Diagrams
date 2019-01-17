@@ -1,0 +1,28 @@
+{
+  "peerDependencies": {},
+  "dependencies": {
+    "lodash": "4.17.10",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
+    "react-popper": "1.0.2",
+    "react-text-mask": "5.4.3",
+    "react-select": "2.0.0",
+    "react-spring": "6.1.8",
+    "resize-observer": "1.0.0-alpha.1",
+    "memoize-one": "4.0.2",
+    "warning": "4.0.2",
+    "react-swipeable-views": "0.12.18",
+    "react-measure": "2.1.2",
+    "react-toastify": "4.4.0",
+    "react-truncate": "2.4.0",
+    "react-window": "1.2.4",
+    "react-virtualized-auto-sizer": "1.0.2"
+  },
+  "name": "@elliemae/ds-basic",
+  "version": "0.1.74",
+  "description": "Ellie Mae - Dim Sum - Basic",
+  "main": "ds-basic.js",
+  "license": "MIT",
+  "style": "ds-basic.css",
+  "preupVersion": "2.0.13"
+}

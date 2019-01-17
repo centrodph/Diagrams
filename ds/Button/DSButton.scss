@@ -1,0 +1,247 @@
+// ********************************************
+// container definition
+$btn-el: #{$prefix}-button;
+$input-addon-group: #{$prefix}-input-addon-group;
+
+// ********************************************
+// element definition
+$btn-icon: #{$prefix}-icon;
+
+// ********************************************
+// modifiers
+$btn-el-s: #{$btn-el}--s;
+$btn-el-m: #{$btn-el}--m;
+$btn-el-l: #{$btn-el}--l;
+$btn-el-fluid: #{$btn-el}--fluid-width;
+
+$btn-el-primary: #{$btn-el}--primary;
+$btn-el-text: #{$btn-el}--text;
+$btn-el-secondary: #{$btn-el}--secondary;
+$btn-el-link: #{$btn-el}--link;
+
+// ********************************************
+// Vars
+$button-height: space(m) * 1.17;
+$button-border-radius: $theme-base-border-radius;
+$button-width: space(l) * 1.3;
+$button-padding: 0 space(s);
+
+$s-size: space(s) * 1.125; //18px;
+$m-size: space(m) * 1.17; //28px
+$l-size: space(l) * 1.25; //40px;
+
+$s-font: font-size(300); //12px
+$m-font: font-size(500); //14px;
+$l-font: font-size(600); //16px;
+
+$border-type: solid border-size(xs);
+
+.#{$btn-el} {
+  @include body-text-style(semibold);
+  @include center();
+  min-width: $button-width;
+  border-radius: $button-border-radius;
+  padding: $button-padding;
+  cursor: pointer;
+  transition: duration(base) easing(base);
+
+  // TODO: FOCUS TO BE DEFINED
+  &:focus {
+    @include box-shadow(0 0 4px 0 rgba(color(brand-primary, 500),0.7));
+  }
+
+  &--icon-only {
+    min-width: initial;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .#{$btn-icon} {
+    padding: space(xxs);
+    &:first-child:not(:last-child) {
+      margin-right: space(xs);
+      margin-left: space(xs) * -1;
+    }
+    &:last-child:not(:first-child) {
+      margin-left: space(xs);
+      margin-right: space(xs) * -1;
+    }
+
+    &:last-child,
+    &:first-child {
+      .#{$btn-el} {
+        padding-left: space(s) * -1;
+        padding-right: space(s) * -1;
+      }
+    }
+  }
+}
+
+// ********************************************
+// Sizes
+.#{$btn-el-s} {
+  height: $s-size;
+  font-size: $s-font;
+  &.#{$btn-el}--icon-only {
+    width: $s-size;
+  }
+}
+.#{$btn-el-m} {
+  height: $m-size;
+  font-size: $m-font;
+  &.#{$btn-el}--icon-only {
+    width: $m-size;
+  }
+}
+.#{$btn-el-l} {
+  height: $l-size;
+  font-size: $l-font;
+  &.#{$btn-el}--icon-only {
+    width: $l-size;
+  }
+}
+.#{$btn-el-fluid} {
+  width: 100%;
+}
+
+
+
+
+// ********************************************
+// Primary
+.#{$btn-el-primary} {
+  color: color(neutral, 000);
+  background-color: color(brand-primary, 600);
+  border: $border-type color(brand-primary, 700);
+
+  .#{$btn-icon} {
+    @include icon-color(color(neutral, 000));
+  }
+
+  &:hover:not([disabled]) {
+    background-color: color(brand-primary, 500);
+  }
+
+  &:active {
+    background-color: color(brand-primary, 700);
+  }
+
+  &:disabled {
+    color: color(neutral, 100);      
+    background-color: color(neutral, 400);
+    border-color: color(neutral, 400);
+    cursor: not-allowed;
+
+    .#{$btn-icon} {
+      @include icon-color(color(neutral, 100));
+    }
+  }
+
+}
+
+// ********************************************
+// Text
+.#{$btn-el-text} {
+  color: color(brand-primary, 500);    
+  text-transform: uppercase;
+  letter-spacing: 0;
+  background-color: transparent;
+  border: none;
+
+  .#{$btn-icon} {
+    @include icon-color(color(brand-primary, 500));
+  }
+
+  &:hover:not([disabled]) {
+    text-decoration: underline;
+  }
+
+  &:active {
+    color: color(brand-primary, 700);
+
+    .#{$btn-icon} {
+      @include icon-color(color(brand-primary, 700));
+    }
+  }
+
+  &:disabled {
+    color: color(neutral, 400);      
+    cursor: not-allowed;
+
+    .#{$btn-icon} {
+      @include icon-color(color(neutral, 400));
+    }
+  }  
+}
+
+// ********************************************
+// Secondary
+.#{$btn-el-secondary} {
+  color: color(brand-primary, 600);
+  background-color: color(neutral, 000);
+  border: $border-type color(neutral, 400);
+
+  @at-root .#{$input-addon-group}__addon {
+    .#{$btn-el-secondary} {
+      border: $border-type color(neutral, 200);
+    }
+  }
+
+  .#{$btn-icon} {
+    @include icon-color(color(brand-primary, 600));
+  }
+
+  &:hover:not([disabled]) {
+    border: $border-type color(brand-primary, 500);
+  }
+
+  &:active {
+    color: color(brand-primary, 700);
+    border: $border-type color(brand-primary, 700);
+
+    .#{$btn-icon} {
+      @include icon-color(color(brand-primary, 700));
+    }
+  }
+
+  &:disabled {
+    color: color(neutral, 400);      
+    cursor: not-allowed;
+
+    .#{$btn-icon} {
+      @include icon-color(color(neutral, 400));
+    }
+  }  
+}
+
+// ********************************************
+// link
+
+.#{$btn-el-link} {
+  @include link-text-style();
+  padding: 0;
+  color: color(brand-primary, 600);
+  border: none;
+  display: inline;
+  height: unset;
+  line-height: unset;
+  background: transparent;
+  min-width: initial;
+
+  &:focus {
+    box-shadow: none;
+  }
+
+  &:hover:not([disabled]) {
+    text-decoration-line: underline;
+  }
+
+  &:active {
+    color: color(brand-primary, 700);
+  }
+
+  &:disabled {
+    color: color(neutral, 400);
+    cursor: not-allowed;
+  }
+}
