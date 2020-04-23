@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-04-23T17:59:38.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="n1ilkjGoHsZVFdDlADve" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-04-23T18:03:42.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="dTcPNffxLCPh-q2-ObrS" version="13.0.1" type="github">
   <diagram id="TsVsnnMCk7mku42cMs8Y" name="Page-1">
-    <mxGraphModel dx="1875" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,13 +146,13 @@
           <mxGeometry x="-190" y="110" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XewtoU3do0jHRPtYfVXp-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;DECISIV COMPONENTS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="60" width="40" height="20" as="geometry" />
+          <mxGeometry x="350" y="20" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XewtoU3do0jHRPtYfVXp-2" value="&lt;font style=&quot;font-size: 21px&quot;&gt;JS-CODE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="450" width="130" height="20" as="geometry" />
+          <mxGeometry x="480" y="480" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XewtoU3do0jHRPtYfVXp-4" value="&lt;font style=&quot;font-size: 21px&quot;&gt;ACID COMPONENTS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="45" width="40" height="50" as="geometry" />
+          <mxGeometry x="1050" y="5" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
