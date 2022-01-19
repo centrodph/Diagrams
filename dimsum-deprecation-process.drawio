@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T16:36:15.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.4.0" etag="n8gSjx9Vx7xLg0LUHEPt" type="github"><diagram id="EUqRaT7w8tXWj6S2xYRi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-19T16:36:37.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Vyg_bCojZ-TdKX4eISK-" version="16.4.0" type="github">
+  <diagram id="EUqRaT7w8tXWj6S2xYRi" name="Page-1">
+    <mxGraphModel dx="2102" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-1" value="Package Deprecation Process" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="1">
+          <mxGeometry x="244" y="810.5" width="1940" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-2" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="244" y="930.5" width="646.67" height="2309.5" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-3" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="890.6666666666666" y="930.5" width="647" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-4" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="1537.3333333333333" y="930.5" width="647" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="244" y="890.5" width="646.6666666666666" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-6" value="Prepare documentation" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="74l3JzcnHj_zoZ4KyQAf-5">
+          <mxGeometry width="646.6656362699642" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-7" value="Customer adapting&amp;nbsp;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="74l3JzcnHj_zoZ4KyQAf-5">
+          <mxGeometry x="646.6656362699642" width="646.6656362699642" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-8" value="Remove Package" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="74l3JzcnHj_zoZ4KyQAf-5">
+          <mxGeometry x="1293.3312725399282" width="646.6666666666666" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-9" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Create the Confluence PAGE &lt;br&gt;under Breaking Changes: &lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://confluence.elliemae.io/display/FEAE/Breaking+changes+-+Migration+steps+and+rationale?src=contextnavpagetreemode&quot;&gt;&lt;font color=&quot;#99ffff&quot;&gt;LINK&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="286.85" y="960" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-10" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Add rationale section in confluence&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1140" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-11" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Add Migration Steps section in confluence&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1330" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-12" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Add Latest Available Version section in confluence&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1530" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-13" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Update Storybook:&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1750" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-14" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Move the component to &lt;/font&gt;&lt;font color=&quot;#99ffff&quot;&gt;END OF LIFE&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt; section&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1960" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-15" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Add the &lt;/font&gt;&lt;font color=&quot;#99ffff&quot;&gt;Legacy Addon&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt; in the stories and link &lt;br&gt;to the Confluence page&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2170" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-16" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Update Component:&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2380" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-17" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Add &lt;/font&gt;&lt;font color=&quot;#99ffff&quot;&gt;prop validator or prop helper&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt; to announce&lt;br&gt;the latest available version&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2590" width="453.15" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="74l3JzcnHj_zoZ4KyQAf-18" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Create a &lt;/font&gt;&lt;font color=&quot;#99ffff&quot;&gt;Codemods&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt; function to help &lt;br&gt;in the migration if it is possible&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2800" width="453.15" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
