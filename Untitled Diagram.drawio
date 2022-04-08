@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T23:58:25.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="G-h3R3-FmwdBt-Neyz3Q" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T23:58:44.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="RH7NFgXtqUL29o3Wp0Nj" version="15.9.4" type="github">
   <diagram id="rzBmN60TZfyF7qIyzRY4" name="Page-1">
     <mxGraphModel dx="659" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="EAhCMrBc5kgfj_fnzDdY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EAhCMrBc5kgfj_fnzDdY-21" target="EAhCMrBc5kgfj_fnzDdY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EAhCMrBc5kgfj_fnzDdY-21" value="Candidato" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="EAhCMrBc5kgfj_fnzDdY-21" value="Empleado" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EAhCMrBc5kgfj_fnzDdY-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EAhCMrBc5kgfj_fnzDdY-21">
