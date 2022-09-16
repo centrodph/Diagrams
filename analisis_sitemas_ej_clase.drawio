@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T22:13:15.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iFpZTHF5y8uPAWgXbD-f" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-16T22:42:03.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xazy21GMREK1p7e353V7" version="20.3.0" type="github" pages="2">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="Page-1">
-    <mxGraphModel dx="2820" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3536" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,10 +232,75 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_14LELkRVO4H7XLuJz7y" name="Page-2">
-    <mxGraphModel dx="896" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-1" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;span id=&quot;docs-internal-guid-165923a8-7fff-e5c3-ca7d-98a9798946c2&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; font-weight: 700;&quot;&gt;ejercicio 2&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Modelar mediante un diagrama de clases un sistema para una compañía de reclutamiento que permita administrar los job descriptions de las posiciones que se buscan. Ejemplo de Posiciones que se están buscando en la actualidad: Vendedores, Martilleros Publicos, Administrativos, Socios Gerentes, Gerentes Generales. Es muy posible que en dos semanas también sumen búsquedas de una consultora contable y comiencen a buscar por ejemplo Contadores.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="540" width="820" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-2" value="Puesto" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-3" value="- puestoType: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="5FULAb4WYUO9xrDKhNzV-2">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="5FULAb4WYUO9xrDKhNzV-2">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-6" value="Sueldo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="5FULAb4WYUO9xrDKhNzV-6">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="5FULAb4WYUO9xrDKhNzV-9" value="+ calcular(): float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="5FULAb4WYUO9xrDKhNzV-6">
+          <mxGeometry y="34" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jYopDwOedY3TL9rNeGHM-1" value="Formula" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYopDwOedY3TL9rNeGHM-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="jYopDwOedY3TL9rNeGHM-1">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jYopDwOedY3TL9rNeGHM-5" value="+ calcular(): float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="jYopDwOedY3TL9rNeGHM-1">
+          <mxGeometry y="34" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H5XE-mCqvEBDahCucZwi-1" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;fontSize=13;fontColor=#330000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="5FULAb4WYUO9xrDKhNzV-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-4" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#330000;" vertex="1" connectable="0" parent="H5XE-mCqvEBDahCucZwi-1">
+          <mxGeometry x="0.9006" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#330000;" vertex="1" connectable="0" parent="H5XE-mCqvEBDahCucZwi-1">
+          <mxGeometry x="-0.9205" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-1" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;fontSize=13;fontColor=#330000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="5FULAb4WYUO9xrDKhNzV-6" target="5FULAb4WYUO9xrDKhNzV-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="610" as="sourcePoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#330000;" vertex="1" connectable="0" parent="fZC7BNTlefZqbPdnp9Fq-1">
+          <mxGeometry x="0.9174" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-3" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#330000;" vertex="1" connectable="0" parent="fZC7BNTlefZqbPdnp9Fq-1">
+          <mxGeometry x="-0.8903" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fZC7BNTlefZqbPdnp9Fq-6" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;span id=&quot;docs-internal-guid-165923a8-7fff-e5c3-ca7d-98a9798946c2&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;ejercicio 1&lt;/span&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Modelar mediante un diagrama de clases un sistema que permita la liquidación de sueldos. La compañia que es una empresa inmobiliaria cuenta con los siguientes puestos laborales desde hace muchos años: Vendedores, Martilleros Publicos, Administrativos, Socios Gerentes y Gerente General. En cada uno de ellos la &lt;font color=&quot;#330000&quot;&gt;formula&lt;/font&gt; del calculo del sueldo es diferente.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="75" width="820" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
