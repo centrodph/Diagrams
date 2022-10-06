@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T00:02:29.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1TKAw6fBoAKb7SdzBr-E" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-06T00:54:40.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CZr4PF9WkjuhrOqv_g49" version="20.4.0" type="github" pages="6">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="2712" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -691,17 +691,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHJOPkSASgYajRPW9D-U" name="Desafio">
-    <mxGraphModel dx="2580" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3741" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-1" value="&lt;h1&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;Modelar mediante un diagrama de clases una plataforma de e-learning (LMS) que pueda fácilmente ser implementada en diferentes &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;compañías&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt; educativas.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;Cada &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;curso&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt; podrá tener asociado uno o más &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;átomos&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt; y estos podrán tener 1 o más &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;temas&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;. Cada tema tendrá un título, una pequeña descripción y tendrá asociado un tipo de contenido. Los tipos de contenido pueden ser: slides, texto, imagen estática, imagen interactiva, video, pdf o un cuestionario. En todos los casos cambia sustancialmente la manera de mostrar dicho contenido y no se tiene pensado que puedan llegar a existir nuevos tipos de contenidos regularmente.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;En el caso de los cuestionarios es importante poder crear dinámicamente &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;preguntas&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;. las cuales podrán tener 1 o más posibles &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;respuestas&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;Deberán existir &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;font&gt;roles&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt; de manera que, según él mismo, se puedan realizar diferentes acciones sobre la plataforma y es importante que se puedan establecer diferentes roles según el curso.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-weight: 400; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; background-color: rgb(255, 255, 255);&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; font-family: Arial;&quot;&gt;Es decir que por ejemplo una persona pueda ser alumno de un curso pero administrador de contenidos en otro curso. Por el momento no se sabe cuántos roles se requieren pero debe ser algo sencillo poder sumar roles.&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="830" width="520" height="400" as="geometry" />
+          <mxGeometry x="-610" y="400" width="520" height="400" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-2" value="Curso" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="345" y="696" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-3" value="+ nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-2">
+        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-3" value="- nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-2">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-2">
@@ -713,7 +713,7 @@
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-6" value="Compañia" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="540" y="610" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-7" value="+ nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-6">
+        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-7" value="- nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-6">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-6">
@@ -725,10 +725,10 @@
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-10" value="Tema" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="-80" y="868" width="190" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-11" value="+ titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-10">
+        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-11" value="- titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-10">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZXGRq0wfXifDqoGHBMNH-6" value="+ descripcion: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-10">
+        <mxCell id="ZXGRq0wfXifDqoGHBMNH-6" value="- descripcion: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-10">
           <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-10">
@@ -740,7 +740,7 @@
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-14" value="Atomo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="140" y="782" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-15" value="+ titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-14">
+        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-15" value="- titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-14">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-14">
@@ -752,7 +752,7 @@
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-18" value="Contenido" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="-380" y="954" width="240" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-19" value="+ titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-18">
+        <mxCell id="EpKAmvdxm-9U3jhJA9Xc-19" value="- titulo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-18">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EpKAmvdxm-9U3jhJA9Xc-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="EpKAmvdxm-9U3jhJA9Xc-18">
@@ -950,10 +950,16 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-36" value="Respuesta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1710" width="260" height="34" as="geometry" />
+          <mxGeometry x="-170" y="1710" width="260" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-64" value="+ opcion: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-65" value="+ valida: Boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-37" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
-          <mxGeometry y="26" width="260" height="8" as="geometry" />
+          <mxGeometry y="78" width="260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-38" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;entryX=0.604;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.219;exitY=-0.129;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="r2z-FBAmXdZURpZS-7Zd-36" target="r2z-FBAmXdZURpZS-7Zd-42">
           <mxGeometry relative="1" as="geometry">
@@ -965,6 +971,69 @@
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-40" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-38">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-43" value="Role" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="894" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-44" value="- nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-43">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-45" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-43">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-46" value="+ addUsuario(Usuario): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-43">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-47" value="RoleType" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="894" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-49" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-47">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-51" value="Usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-52" value="- nombre: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-51">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-53" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-51">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-55" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.529;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2z-FBAmXdZURpZS-7Zd-51" target="r2z-FBAmXdZURpZS-7Zd-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290.0100000000001" y="1092.172" as="sourcePoint" />
+            <mxPoint x="435.13" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-56" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-55">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-57" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-55">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-58" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;exitX=0.458;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.719;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="r2z-FBAmXdZURpZS-7Zd-43" target="EpKAmvdxm-9U3jhJA9Xc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.0100000000002" y="882.172" as="sourcePoint" />
+            <mxPoint x="515.1300000000001" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-59" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-58">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-60" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-58">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-61" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;exitX=1.001;exitY=0.829;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="r2z-FBAmXdZURpZS-7Zd-44" target="r2z-FBAmXdZURpZS-7Zd-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547.4400000000003" y="1082.172" as="sourcePoint" />
+            <mxPoint x="692.5600000000002" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-62" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-61">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-63" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;fontColor=#330000;" connectable="0" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-61">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
