@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T00:54:40.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CZr4PF9WkjuhrOqv_g49" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-06T01:07:51.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8x8v5QUER1OTcvbaz4go" version="20.4.0" type="github" pages="6">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="2712" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_14LELkRVO4H7XLuJz7y" name="16-septiembre">
-    <mxGraphModel dx="1862" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,7 +327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9xtCz4SOC0YcvrmKOyR6" name="patrones-roles">
-    <mxGraphModel dx="1862" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,7 +626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yqfAd6_ovmGYucyWKGJF" name="properties-dynamics">
-    <mxGraphModel dx="1862" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sHJOPkSASgYajRPW9D-U" name="Desafio">
-    <mxGraphModel dx="3741" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1814" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -950,16 +950,19 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-36" value="Respuesta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1710" width="260" height="86" as="geometry" />
+          <mxGeometry x="-170" y="1710" width="260" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="r2z-FBAmXdZURpZS-7Zd-64" value="+ opcion: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-64" value="+ tipo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="r2z-FBAmXdZURpZS-7Zd-65" value="+ valida: Boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
+        <mxCell id="r2z-FBAmXdZURpZS-7Zd-65" value="+ valor: Boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
           <mxGeometry y="52" width="260" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="JZ9Jm3oDsvw4VgPCSVcB-1" value="+ opcion: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
+          <mxGeometry y="78" width="260" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-37" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#330000;" vertex="1" parent="r2z-FBAmXdZURpZS-7Zd-36">
-          <mxGeometry y="78" width="260" height="8" as="geometry" />
+          <mxGeometry y="104" width="260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="r2z-FBAmXdZURpZS-7Zd-38" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;entryX=0.604;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.219;exitY=-0.129;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="r2z-FBAmXdZURpZS-7Zd-36" target="r2z-FBAmXdZURpZS-7Zd-42">
           <mxGeometry relative="1" as="geometry">
