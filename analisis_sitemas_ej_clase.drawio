@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T22:20:11.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BtH2RQ_ydzTrEgKYXlwA" version="20.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-11T23:04:52.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3lVewqwEaZvyMMgcm9hv" version="20.5.1" type="github" pages="8">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="2928" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1226,10 +1226,164 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7x30ffurS6_QRFrn3HbN" name="desafio-2">
-    <mxGraphModel dx="1228" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1797" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-1" value="&lt;h2 style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px 0px 0.875rem; padding: 0px; color: rgb(38, 38, 38); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-style: normal; font-weight: 400; line-height: 1.4; text-rendering: optimizelegibility; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Contenido de la actividad&lt;/font&gt;&lt;/h2&gt;&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; color: rgb(38, 38, 38); font-family: &amp;quot;Open Sans&amp;quot;, Helvetica, Arial, sans-serif; font-weight: 400;&quot; class=&quot;attempt-header assessment-header uneditable&quot;&gt;&lt;/div&gt;&lt;ol style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Helvetica, Arial, sans-serif; line-height: 1.6; list-style-position: outside; list-style-type: none; color: rgb(38, 38, 38);&quot; class=&quot;question-list attempt-question-list&quot;&gt;&lt;li style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px 0px 1.875rem; padding: 0px;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px;&quot; class=&quot;assessment-question js-question-type-presentation&quot;&gt;&lt;fieldset style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border-width: 0px; border-style: initial; border-color: initial; margin: 0px; padding: 0px; min-width: inherit;&quot; role=&quot;presentation&quot;&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px;&quot; class=&quot;question-content&quot;&gt;&lt;div style=&quot;box-sizing: inherit; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px;&quot; class=&quot;question-container&quot;&gt;&lt;div style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; line-height: inherit;&quot; role=&quot;presentation&quot; class=&quot;bb-editor-root&quot;&gt;&lt;div style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; line-height: inherit; position: relative;&quot; class=&quot;keyboard-tooltip-container no-toolbar&quot;&gt;&lt;div style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px 0px 0.9375rem; padding: 0px; font-family: inherit; height: auto; position: relative; line-height: inherit; border-radius: 0px; border: 0px;&quot; class=&quot;bb-editor-container ql-container ql-disabled is-read-only&quot; role=&quot;presentation&quot;&gt;&lt;div style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; line-height: inherit; height: auto; outline: none; overflow-y: auto; tab-size: 4; overflow-wrap: break-word; cursor: text; min-height: 0px; max-height: none; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif;&quot; aria-readonly=&quot;true&quot; id=&quot;bb-editor-textbox&quot; data-gramm=&quot;false&quot; class=&quot;ql-editor bb-editor&quot;&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Modelar un sistema de administración de proyectos para una empresa dedicada a la construcción de software.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cuando un &lt;/span&gt;cliente pide la construcción de un sistema&lt;span style=&quot;font-weight: 400;&quot;&gt;, se arma un documento con un alcance global sobre lo que el cliente necesita. Dicho documento contiene la fecha, descripción del alcance y una&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;de esfuerzo en horas.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Si el cliente acepta la estimación brindada por la empresa se procede a realizar un relevamiento más detallado para confeccionar el documento de alcance detallado. Dicho documento contiene la fecha, descripción del alcance con detalles específicos, re. querimientos funcionales, requerimientos no funcionales, interfaces con otros sistemas, drafts de las pantallas y los involucrados (stakeholders) en el proyecto con los respectivos roles de cada uno de ellos en el proyecto.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Una vez finalizado el documento de alcance detallado se procede a realizar el cronograma del proyecto donde se especifican las tareas con los tiempos que lleva cada una de ellas. Cada tarea tiene una fecha de inicio, fecha de fin, un nombre y una descripción. Toda tarea tiene asociado un solo responsable.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;El cronograma una vez finalizado es presentado al cliente para que el mismo lo firme y en caso de no estar de acuerdo se le realizan ajustes al mismo hasta recibir la conformidad del mismo.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Una vez que el cliente firma el cronograma se procede a realizar el análisis del sistema, el diseño, construcción y pruebas del mismo.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Paralelamente durante el análisis, diseño, construcción y pruebas se debe gestionar cualquier cambio que pueda surgir.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Una vez finalizadas las pruebas el cliente deberá firmar la certificación de los servicios que se realizaron dando por finalizado el proyecto.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit;&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-weight: 400; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: inherit; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; text-align: justify;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: inherit; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Se desea contar con una alerta diaria que permita enviarle un mail a todos aquellos clientes cuyos proyectos están atrasados.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/fieldset&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="30" width="920" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="425" y="830" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-5" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="840" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-6" target="u9zp6ok_A1In_FyDTT9s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-6" value="Solicitar construccion&lt;br&gt;&amp;nbsp;del sistema" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1270" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-7" target="u9zp6ok_A1In_FyDTT9s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-7" value="Armar Alcance" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1420" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-8" target="u9zp6ok_A1In_FyDTT9s-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-8" target="u9zp6ok_A1In_FyDTT9s-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.8571428571429" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-8" value="" style="rhombus;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-9" target="u9zp6ok_A1In_FyDTT9s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-9" value="Estimar Alcance" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1590" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-16" value="cliente acepta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-17" value="cliente no acepta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1830" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-18" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="264.8571428571431" y="1925" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-19" target="u9zp6ok_A1In_FyDTT9s-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-19" value="Relevar Alcance&amp;nbsp;&lt;br&gt;detallado" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1770" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-20" target="u9zp6ok_A1In_FyDTT9s-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-20" value="Confeccionar&amp;nbsp;&lt;br&gt;cronograma" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1890" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-22" value="H" style="ellipse;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1980" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-24" target="u9zp6ok_A1In_FyDTT9s-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-24" value="H" style="ellipse;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1285" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-25" target="u9zp6ok_A1In_FyDTT9s-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-25" value="Presentar&amp;nbsp;&lt;br&gt;cronograma al cliente" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1420" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-28" target="u9zp6ok_A1In_FyDTT9s-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.047;entryY=0.719;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-28" target="u9zp6ok_A1In_FyDTT9s-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-28" value="" style="rhombus;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1540" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-31" value="No Acepta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-32" target="u9zp6ok_A1In_FyDTT9s-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-32" value="Realizar ajustes" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1420" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-34" target="u9zp6ok_A1In_FyDTT9s-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-34" value="" style="rhombus;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-38" value="Acepta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-39" target="u9zp6ok_A1In_FyDTT9s-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-39" value="Analizar sistema" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1730" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-40" target="u9zp6ok_A1In_FyDTT9s-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-40" value="Diseñar sistema" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-42" target="u9zp6ok_A1In_FyDTT9s-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-42" value="Construir sistema" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1915" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.254;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-44" target="u9zp6ok_A1In_FyDTT9s-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-44" value="Construir sistema" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2010" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;labelBackgroundColor=none;fontSize=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1680" width="550" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.022;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-49" target="u9zp6ok_A1In_FyDTT9s-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-49" value="Gestionar cambios" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1820" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1079.66" y="1690" as="sourcePoint" />
+            <mxPoint x="1079.66" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.346;entryY=-0.025;entryDx=0;entryDy=0;fontSize=15;entryPerimeter=0;" edge="1" parent="1" target="u9zp6ok_A1In_FyDTT9s-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.9999999999993" y="1685" as="sourcePoint" />
+            <mxPoint x="1329.9999999999993" y="1725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;labelBackgroundColor=none;fontSize=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2130" width="550" height="5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
