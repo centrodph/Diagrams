@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T23:04:52.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3lVewqwEaZvyMMgcm9hv" version="20.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-11T23:10:37.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KQYI2tyvESdy00MUeJxE" version="20.5.1" type="github" pages="8">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="2928" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1226,7 +1226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7x30ffurS6_QRFrn3HbN" name="desafio-2">
-    <mxGraphModel dx="1797" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2747" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1383,6 +1383,27 @@
         </mxCell>
         <mxCell id="u9zp6ok_A1In_FyDTT9s-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;labelBackgroundColor=none;fontSize=15;direction=south;" vertex="1" parent="1">
           <mxGeometry x="960" y="2130" width="550" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-56" target="u9zp6ok_A1In_FyDTT9s-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-56" value="Certificar Servicios" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2210" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" target="u9zp6ok_A1In_FyDTT9s-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220.31" y="2135" as="sourcePoint" />
+            <mxPoint x="1219.6600000000003" y="2203.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-62" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-64" target="u9zp6ok_A1In_FyDTT9s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-64" value="" style="ellipse;fillColor=strokeColor;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1160" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
