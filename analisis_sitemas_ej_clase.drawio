@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T00:22:10.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NCMcV9IFgZSHtLuc3Ee-" version="20.5.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-12T00:23:55.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oZrTEB8p8qM2yDBreOWw" version="20.5.1" type="github" pages="8">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="2928" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1456,7 +1456,7 @@
         <mxCell id="u9zp6ok_A1In_FyDTT9s-106" value="+ setCronograma(Cronograma): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="u9zp6ok_A1In_FyDTT9s-82">
           <mxGeometry y="112" width="330" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="u9zp6ok_A1In_FyDTT9s-175" value="+ verificarEstaActiva: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="u9zp6ok_A1In_FyDTT9s-82">
+        <mxCell id="u9zp6ok_A1In_FyDTT9s-175" value="+ verificarEstaActivo(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="u9zp6ok_A1In_FyDTT9s-82">
           <mxGeometry y="138" width="330" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u9zp6ok_A1In_FyDTT9s-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="u9zp6ok_A1In_FyDTT9s-73" target="u9zp6ok_A1In_FyDTT9s-79">
