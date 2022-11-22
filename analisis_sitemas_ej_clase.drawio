@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T23:33:49.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g1WBxfcS8vKuMkN42ppe" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-22T00:05:11.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QkHeWdpBMNjMiBoBjGZy" version="20.5.3" type="github" pages="8">
   <diagram id="L0INqrVEjVy5AsWbUCMz" name="9-septiembre">
     <mxGraphModel dx="4041" dy="2349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2022,7 +2022,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-11" value="Armar Estimacion" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="640" width="140" height="70" as="geometry" />
+          <mxGeometry x="3820" y="640" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-2" target="J-3hSih5-4Fs8-KZiR84-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2036,7 +2036,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-14" value="Armar Alcance Detallado" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="830" width="140" height="70" as="geometry" />
+          <mxGeometry x="3825" y="810" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-17" value="Responsable" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="4350" y="790" width="30" height="60" as="geometry" />
@@ -2054,7 +2054,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-21" value="Armar Cronograma" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="994" width="140" height="70" as="geometry" />
+          <mxGeometry x="3825" y="950" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J-3hSih5-4Fs8-KZiR84-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-21" target="J-3hSih5-4Fs8-KZiR84-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2065,6 +2065,49 @@
         <mxCell id="J-3hSih5-4Fs8-KZiR84-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J-3hSih5-4Fs8-KZiR84-22">
           <mxGeometry x="-0.085" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-24" value="Armar Tareas" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="4110" y="910" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.012;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-24" target="J-3hSih5-4Fs8-KZiR84-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4130" y="1134" as="sourcePoint" />
+            <mxPoint x="4130" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J-3hSih5-4Fs8-KZiR84-25">
+          <mxGeometry x="-0.085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-27" value="Presentar Cronograma&lt;br&gt;cliente" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3825" y="1180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-27" target="J-3hSih5-4Fs8-KZiR84-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3840" y="990" as="sourcePoint" />
+            <mxPoint x="3840" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J-3hSih5-4Fs8-KZiR84-28">
+          <mxGeometry x="-0.085" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.431;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-24" target="J-3hSih5-4Fs8-KZiR84-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4120" y="955" as="sourcePoint" />
+            <mxPoint x="4405" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-31" value="Modifcar Alcance" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="1060" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J-3hSih5-4Fs8-KZiR84-32" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;el cliente acepta&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.002;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J-3hSih5-4Fs8-KZiR84-31" target="J-3hSih5-4Fs8-KZiR84-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3670" y="1064" as="sourcePoint" />
+            <mxPoint x="3672.2799999999997" y="965.8900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
