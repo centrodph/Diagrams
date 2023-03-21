@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T23:37:13.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ELzuPaxja8uFiHZC9nj3" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-21T23:45:05.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EGEpc5I1LB8JvjIXmlGS" version="21.0.10" type="github" pages="2">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1">
     <mxGraphModel dx="2402" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s1QMmddUKzPAXgTeXxOY" name="disenio-sistemas -clase 2">
-    <mxGraphModel dx="1945" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,7 +282,7 @@
         <mxCell id="seKwy7nc6JV0GY9TdHbP-15" value="+ apagar(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="-70" y="860" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="seKwy7nc6JV0GY9TdHbP-19" value="+ apagar(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+        <mxCell id="seKwy7nc6JV0GY9TdHbP-19" value="+ encender(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="-70" y="800" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
