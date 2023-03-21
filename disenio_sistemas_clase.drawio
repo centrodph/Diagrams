@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T22:09:49.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0O3wp3x2aut6mJ1uD01F" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T23:19:23.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lVoZmJ20SHJqwTwILPer" version="21.0.10" type="github" pages="2">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1">
-    <mxGraphModel dx="2213" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2402" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,6 +162,17 @@
             <mxPoint x="261" y="1226" as="sourcePoint" />
             <mxPoint x="275" y="1400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s1QMmddUKzPAXgTeXxOY" name="disenio-sistemas -clase 2">
+    <mxGraphModel dx="931" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pBGuv0j49dd8rYtpd4Hc-3" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px; font-weight: normal;&quot;&gt;Diseñar mediante un diagrama de clase y luego construir en Java o cualquier otro lenguaje orientado a objetos, una solución de software para semáforos, teniendo en cuenta para la búsqueda de la solución tratar de evitar estructuras condicionales para evitar complejizar la lógica.&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="420" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
