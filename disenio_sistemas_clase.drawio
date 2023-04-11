@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T22:49:34.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="w49RZaUjFuxQPtA1NRY4" version="21.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-11T23:04:01.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JrlcOrpzrTpmrRjtxRd3" version="21.1.4" type="github" pages="4">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1 - strategy">
     <mxGraphModel dx="1874" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ag-b7I2DaLdhw26b4Fd2" name="disenios-sistemas-clase-5">
-    <mxGraphModel dx="2214" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,7 +551,7 @@
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-9" value="+ escuchar(Observado): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-7">
           <mxGeometry y="34" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Observador&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Colaborator&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="740" y="1230" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nvt_YWyyP4NYhqDqDkaD-1" target="Nvt_YWyyP4NYhqDqDkaD-10">
@@ -572,32 +572,26 @@
             <mxPoint x="693.5" y="1391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-14" value="Director" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1240" width="210" height="112" as="geometry" />
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-14" value="TorreControl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1230" width="350" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
-          <mxGeometry y="26" width="210" height="8" as="geometry" />
+          <mxGeometry y="26" width="350" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-16" value="+ levantarDerecha(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
-          <mxGeometry y="34" width="210" height="26" as="geometry" />
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-16" value="+ notificar(Colaborator, string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
+          <mxGeometry y="34" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-17" value="+ levantarIzquierda(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
-          <mxGeometry y="60" width="210" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-18" value="+ levantarIzquierda(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
-          <mxGeometry y="86" width="210" height="26" as="geometry" />
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-17" value="+ addColoborator(Colaborator): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="Nvt_YWyyP4NYhqDqDkaD-14">
+          <mxGeometry y="60" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-19" value="+ escuchar(Observado): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="750" y="1300" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-20" value="&amp;nbsp; levantarDerecha(){&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;this.manoDerecha= false&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;this.manoIzquierda = true&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;this.notificar()&amp;nbsp;&lt;br&gt;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp; levantarIzquierda(){&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;this.manoDerecha= false&lt;br&gt;this.manoIzquierda = true&lt;br&gt;this.notificar()&lt;br&gt;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;notificar(){&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;this.subscriptores.forEach(s -&amp;gt; s.&amp;nbsp;escuchar(this))&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; }" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1290" width="330" height="250" as="geometry" />
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Mediator&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="245" y="940" width="415" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Observado&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="940" width="220" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-22" value="+ notificar(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1000" width="170" height="26" as="geometry" />
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-22" value="+ notificar(Colaborator, string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1000" width="360" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-23" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.625;entryY=1.003;entryDx=0;entryDy=0;exitX=0.612;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="Nvt_YWyyP4NYhqDqDkaD-14" target="Nvt_YWyyP4NYhqDqDkaD-21">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -611,7 +605,7 @@
             <mxPoint x="510" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-25" value="observadores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nvt_YWyyP4NYhqDqDkaD-24">
+        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-25" value="colaborators" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nvt_YWyyP4NYhqDqDkaD-24">
           <mxGeometry x="-0.0908" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -621,8 +615,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nvt_YWyyP4NYhqDqDkaD-27" value="+ escuchar(Observado obs): {&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;(Director obs).getManoIzquierda()&lt;br&gt;&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1580" width="330" height="250" as="geometry" />
+        <mxCell id="4VZOSHSs53lUKmAbGt5k-1" value="+ addColoborator(Colaborator): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1026" width="360" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
