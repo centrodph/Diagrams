@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T23:25:10.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HSCJpFFEntQjq432KXpS" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-11T22:47:59.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8pu_1zKBJ5jQc8qoRHjT" version="21.1.4" type="github" pages="4">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1 - strategy">
-    <mxGraphModel dx="1995" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,6 +512,17 @@
         </mxCell>
         <mxCell id="RsqGOml-B0CrK0ZP4P5t-47" value="+ escuchar(Observado obs): {&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;(Director obs).getManoIzquierda()&lt;br&gt;&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="200" y="1170" width="330" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ag-b7I2DaLdhw26b4Fd2" name="disenios-sistemas-clase-5">
+    <mxGraphModel dx="1364" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EoAaf4g9Uay2B4hSTu0B-1" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px; font-weight: normal;&quot;&gt;Modelar y construir una solución para resolver la siguiente problemática:&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px; font-weight: normal;&quot;&gt;Durante los vuelos y el&amp;nbsp; proceso de despegue y aterrizaje se requiere contar con un sistema de comunicación entre &lt;font color=&quot;#ff3333&quot;&gt;todas las aeronaves&lt;/font&gt; (aviones comerciales, aviones privados, helicópteros) que se encuentran próximas entre sí, de manera que puedan enviarse mensajes de texto, por ejemplo, para comunicarle al resto su posición, avisar que van a aterrizar, despegar, coordinarse para la cola de aterrizaje o despegue, etc.&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px; font-weight: normal;&quot;&gt;Nueva problemática detectada: los sistemas de comunicación de los diferentes tipos de aeronaves son diferentes.&lt;/span&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;strokeWidth=3;perimeterSpacing=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="700" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
