@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T23:09:07.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0AD7WXShKji4yL6oR2dN" version="21.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-11T23:09:42.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KlRzOth1zhbLD8W6yNcP" version="21.1.4" type="github" pages="4">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1 - strategy">
     <mxGraphModel dx="1874" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -597,7 +597,7 @@
           <mxGeometry x="830" y="1170" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Mediator&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="940" width="415" height="130" as="geometry" />
+          <mxGeometry x="210" y="940" width="415" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Nvt_YWyyP4NYhqDqDkaD-22" value="+ notificar(Colaborator, string): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="270" y="1000" width="360" height="26" as="geometry" />
