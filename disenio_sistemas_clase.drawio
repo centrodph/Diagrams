@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T23:13:58.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="L4BCuVpnty7nXipwsU4A" version="21.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-25T23:33:56.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nyOwrEfMGlpKwgdy1os2" version="21.1.8" type="github" pages="7">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1 - strategy">
     <mxGraphModel dx="2231" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -967,10 +967,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GEzj8463SRIIkVmKtw4H" name="disenio-clase-6">
-    <mxGraphModel dx="3369" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HYElh63eqZBtVVwzytmB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="710" width="1400" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="K_FGBxpjPKSNcQVJvr1b-1" value="&lt;h1&gt;problema&lt;/h1&gt;&lt;p&gt;Se nos encomienda que diseñemos una solución de manera que quede preparada para poder luego implementar diferentes tecnologías de front end como puede ser mobile o web reutilizando completamente nuestras clases de negocio. En otras palabras, necesitamos diseñar una solución donde las clases de la vista están desacopladas de las clases del modelo. En el caso de las aplicaciones desktop ante un cambio en el modelo debe actualizar todas las vistas que estén utilizando dicho modelo. Pueden utilizar una clase llamada Modelo y otra llamada FrontEnd como punto de partida.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="390" width="560" height="200" as="geometry" />
         </mxCell>
@@ -986,7 +989,7 @@
         <mxCell id="0pBXowiiBmsdqjl7mYXp-32" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="0pBXowiiBmsdqjl7mYXp-31">
           <mxGeometry y="26" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="0pBXowiiBmsdqjl7mYXp-37" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYElh63eqZBtVVwzytmB-6" target="HYElh63eqZBtVVwzytmB-1">
+        <mxCell id="0pBXowiiBmsdqjl7mYXp-37" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HYElh63eqZBtVVwzytmB-6" target="HYElh63eqZBtVVwzytmB-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-460" y="960" as="sourcePoint" />
             <mxPoint x="-479.0699999999997" y="550.9879999999998" as="targetPoint" />
@@ -1011,7 +1014,7 @@
           <mxGeometry y="26" width="210" height="8" as="geometry" />
         </mxCell>
         <mxCell id="HYElh63eqZBtVVwzytmB-1" value="Mediator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="490" width="210" height="34" as="geometry" />
+          <mxGeometry x="-370" y="570" width="210" height="34" as="geometry" />
         </mxCell>
         <mxCell id="HYElh63eqZBtVVwzytmB-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="HYElh63eqZBtVVwzytmB-1">
           <mxGeometry y="26" width="210" height="8" as="geometry" />
@@ -1050,6 +1053,33 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-160" y="1283" as="sourcePoint" />
             <mxPoint x="108.19999999999936" y="970.4180000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-18" value="Observador" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="590" width="210" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="HYElh63eqZBtVVwzytmB-18">
+          <mxGeometry y="26" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-25" value="+ actualizarPantalla(): void" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="HYElh63eqZBtVVwzytmB-18">
+          <mxGeometry y="34" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-20" value="Observado" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=13;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="590" width="210" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=13;fontColor=#330000;" vertex="1" parent="HYElh63eqZBtVVwzytmB-20">
+          <mxGeometry y="26" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-22" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0pBXowiiBmsdqjl7mYXp-26" target="HYElh63eqZBtVVwzytmB-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-350" y="990" as="sourcePoint" />
+            <mxPoint x="-190" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HYElh63eqZBtVVwzytmB-23" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.393;exitY=-0.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0pBXowiiBmsdqjl7mYXp-43" target="HYElh63eqZBtVVwzytmB-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="289" y="958" as="sourcePoint" />
+            <mxPoint x="280" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
