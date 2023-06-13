@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T10:05:42.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6i2qJKV2dUPXNBlIl8PI" version="21.2.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-13T10:06:14.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3TYBguWUUUbZtbou2HJv" version="21.2.4" type="github" pages="8">
   <diagram id="UXahiTQz0xHkTQGtcDH2" name="disenio sistemas - clase 1 - strategy">
     <mxGraphModel dx="1865" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1103,7 +1103,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="16q74fM06aY9t2IQQcsx-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CruceroAdapterInterceptor&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="870" width="190" height="140" as="geometry" />
+          <mxGeometry x="-160" y="870" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="16q74fM06aY9t2IQQcsx-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.447;entryY=1;entryDx=0;entryDy=0;exitX=0.542;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="16q74fM06aY9t2IQQcsx-7" target="16q74fM06aY9t2IQQcsx-15">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1118,10 +1118,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="16q74fM06aY9t2IQQcsx-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CruceroAdapterPesado&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="870" width="290" height="140" as="geometry" />
+          <mxGeometry x="200" y="870" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="16q74fM06aY9t2IQQcsx-13" value="&lt;span style=&quot;color: rgb(51, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;+ combatir(Nave): void&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="930" width="130" height="40" as="geometry" />
+        <mxCell id="16q74fM06aY9t2IQQcsx-13" value="&lt;span style=&quot;color: rgb(51, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;+ combatir(Nave):void&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="920" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="16q74fM06aY9t2IQQcsx-14" value="&lt;span style=&quot;color: rgb(51, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;+ combatir(Nave): void&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="930" width="160" height="40" as="geometry" />
